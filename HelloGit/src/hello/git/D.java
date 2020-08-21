@@ -1,5 +1,5 @@
 package hello.git;
 
-public class B {
+public class D {
 
 }
